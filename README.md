@@ -18,23 +18,12 @@
 
 ## 🧠 About Me
 
-I’m a **Customer Support & IT Support specialist** with a growing focus on **Cybersecurity**.  
+I’m a **Customer Support** with an unending focus on **customer satisfaction**.  
 I enjoy solving problems, supporting users, and helping keep systems safe and reliable.
 
 - 💬 Strong communication & empathy  
 - 🧩 Troubleshooting mindset  
 - 🔐 Security awareness & best practices  
-
----
-
-## 🛡️ Cybersecurity Focus
-
-- 🔎 Basic security checks & hardening (accounts, devices, updates)
-- 🧹 Malware prevention & cleanup (safe practices, scans, isolation basics)
-- 🔑 Access control awareness (password hygiene, MFA, least privilege)
-- 📌 Documentation and user training (simple guides people actually follow)
-
----
 
 ## 🛠️ Support Skills
 
@@ -43,13 +32,6 @@ I enjoy solving problems, supporting users, and helping keep systems safe and re
 - Email/chat support • customer satisfaction  
 - Clear documentation • knowledge base articles  
 
-### 🖥️ IT Support
-- Windows / macOS / Linux basics  
-- Device setup • troubleshooting • updates  
-- Network basics: DNS, VPN, Wi-Fi, TCP/IP  
-- Remote support tools  
-
----
 
 ## 🧰 Tools (Examples)
 
