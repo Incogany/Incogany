@@ -3,73 +3,59 @@
 <!-- ===================== -->
 
 <h1 align="center">👋 Hi, I'm Ronald Ochieng Andrew</h1>
-<h3 align="center">Customer Support </h3>
+<h3 align="center">Customer Support Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Customer%20Support-0A66C2?style=for-the-badge" />
-  
 </p>
 
 <p align="center">
-  ✅ Friendly support & clear communication 
+  ⭐ Customer-focused • Calm under pressure • Problem solver
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **Customer Support** with an unending focus on **customer satisfaction**.  
-I enjoy solving problems, supporting users, and helping keep systems safe and reliable.
+I am a **Customer Support Specialist** focused on delivering fast, clear, and effective support experiences.  
+I enjoy helping customers solve problems, improving service quality, and ensuring customer satisfaction.
 
-- 💬 Strong communication & empathy  
-- 🧩 Troubleshooting mindset  
-- 🔐 Security awareness & best practices  
+- 💬 Strong communication and empathy  
+- 🧩 Problem-solving and troubleshooting mindset  
+- 🎯 Focused on customer satisfaction and retention  
+- 📝 Clear documentation and ticket management  
 
-## 🛠️ Support Skills
+---
 
-### 💬 Customer Support
-- Ticket handling • escalations • follow-ups  
-- Email/chat support • customer satisfaction  
-- Clear documentation • knowledge base articles  
-
-
-## 🧰 Tools (Examples)
+## 🛠️ Tools I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-0EA5E9?style=flat" />
-  <img src="https://img.shields.io/badge/Security-8B5CF6?style=flat" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-1A3B5D?style=flat&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Support-111827?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Chat-0EA5E9?style=flat" />
 </p>
 
 ---
 
 ## 🎯 What I Bring
 
-- ⭐ Professional, calm, user-friendly support  
-- 🧯 Quick issue isolation & resolution  
-- 📝 Clean documentation & knowledge sharing  
-- 🔐 Security-first habits and continuous learning  
-
----
-
-## 📚 Currently Learning
-
-- Incident response fundamentals  
-- SIEM basics and log analysis  
-- Cloud security foundations  
+- ⭐ Excellent customer support and communication skills  
+- 🧯 Fast and accurate issue resolution  
+- 🔁 Efficient ticket handling (Jira, ServiceNow, HubSpot)  
+- 📝 Strong documentation and knowledge base contribution  
+- 🤝 Positive and professional customer interactions  
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **ronaldandrew373@gmail.com**
+- 📧 Email: **ronaldandrew373@gmail.com**  
 - 💼 LinkedIn: **www.linkedin.com/in/ronald-ochieng-va**
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting — feel free to connect!</i>
+  <i>Thanks for visiting — I’m always open to customer support opportunities!</i>
 </p>
