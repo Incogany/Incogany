@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  ✅ Friendly support & clear communication • ⚡ Fast troubleshooting • 🔐 Security-first mindset
+  ✅ Friendly support & clear communication 
 </p>
 
 ---
