@@ -3,12 +3,11 @@
 <!-- ===================== -->
 
 <h1 align="center">👋 Hi, I'm Ronald Ochieng Andrew</h1>
-<h3 align="center">Customer Support • IT Support • Cybersecurity</h3>
+<h3 align="center">Customer Support </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Customer%20Support-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT%20Support-2EA44F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-8B5CF6?style=for-the-badge" />
+  
 </p>
 
 <p align="center">
