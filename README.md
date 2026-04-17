@@ -3,49 +3,64 @@
 <!-- ===================== -->
 
 <h1 align="center">👋 Hi, I'm Ronald Ochieng Andrew</h1>
-<h3 align="center">Customer Support Specialist</h3>
+<h3 align="center">IT Support Specialist | Help Desk | Technical Support</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Customer%20Support-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT%20Support-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Help%20Desk-1A73E8?style=for-the-badge" />
 </p>
 
 <p align="center">
-  ⭐ Customer-focused • Calm under pressure • Problem solver
+  🔧 Troubleshooting • 🖥️ System Support • 📊 Data & Customer Support
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Customer Support Specialist** focused on delivering fast, clear, and effective support experiences.  
-I enjoy helping customers solve problems, improving service quality, and ensuring customer satisfaction.
+I am an **IT Support Specialist** with experience in troubleshooting technical issues, supporting end users, and managing support tickets in fast-paced environments.
 
-- 💬 Strong communication and empathy  
-- 🧩 Problem-solving and troubleshooting mindset  
-- 🎯 Focused on customer satisfaction and retention  
-- 📝 Clear documentation and ticket management  
+I focus on providing reliable **technical support, system troubleshooting, and user assistance**, ensuring smooth daily operations for users and systems.
+
+- 🖥️ IT troubleshooting (software, hardware, system issues)  
+- 🔐 User support and access-related problem resolution  
+- 🎫 Ticket handling and issue tracking  
+- 💬 Clear technical communication with users  
+- 📊 Basic data handling and reporting support  
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=flat" />
   <img src="https://img.shields.io/badge/ServiceNow-1A3B5D?style=flat&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email%20Support-111827?style=flat&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Live%20Chat-0EA5E9?style=flat" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 What I Bring
+## 🎯 Core Strengths
 
-- ⭐ Excellent customer support and communication skills  
-- 🧯 Fast and accurate issue resolution  
-- 🔁 Efficient ticket handling (Jira, ServiceNow, HubSpot)  
-- 📝 Strong documentation and knowledge base contribution  
-- 🤝 Positive and professional customer interactions  
+- 🔧 IT Support & Help Desk troubleshooting  
+- 🖥️ Windows system support & user issue resolution  
+- 🎫 Ticket management (ServiceNow, Jira, HubSpot)  
+- 🔐 Basic Active Directory user support  
+- 💬 Customer communication & technical support  
+- 📊 Data entry, reporting & basic analysis support  
+
+---
+
+## 📂 Experience Focus
+
+While my core focus is **IT Support**, I also bring experience in:
+
+- 💻 Customer support operations  
+- 📊 Data handling and reporting tasks  
+- 🧩 Technical troubleshooting for users and systems  
 
 ---
 
@@ -57,5 +72,5 @@ I enjoy helping customers solve problems, improving service quality, and ensurin
 ---
 
 <p align="center">
-  <i>Thanks for visiting — I’m always open to customer support opportunities!</i>
+  <i>Focused on IT Support, Help Desk, and Technical Support opportunities.</i>
 </p>
